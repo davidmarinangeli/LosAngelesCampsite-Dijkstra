@@ -4,6 +4,11 @@
 # Los Angeles Campsite 
 Kotlin application for the Technical task in Bourne Leisure .
 
+We have a map of campsites and a queue of guests who would like to reach their campsite. The array that comes from the JSON contains the Guest object with its destination. How much time each family (Guest) has to wait?
+
+## Run it
+The project can be run on any editor that has a Kotlin/Java interpeter. No further actions needed. 
+
 ## The Algorithm
 The best algorithm for this task is the Dijkstra one ( any other implementation of a *shortest path* algorithm should work ) with the following structure:
 
