@@ -2,7 +2,7 @@
 <img src="https://raw.githubusercontent.com/davidmarinangeli/LosAngelesCampsite-Dijkstra/master/map.png" width="500"/>
 
 # Los Angeles Campsite 
-Kotlin application for the Technical task in Bourne Leisure .
+Kotlin application I did for a Technical task.
 
 We have a map of campsites and a queue of guests who would like to reach their campsite. The array that comes from the JSON contains the Guest object with its destination. How much time each family (Guest) has to wait?
 
